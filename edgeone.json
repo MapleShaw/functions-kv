@@ -1,8 +1,8 @@
 {
   "redirects": [
     {
-      "source": "indiehacker.fun/:path*",
-      "destination": "https://www.indiehacker.fun/:path*",
+      "source": "/:path*",
+      "destination": "www.indiehacker.fun/:path*",
       "statusCode": 302
     }
   ]

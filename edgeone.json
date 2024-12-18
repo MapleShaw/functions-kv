@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "www.indiehacker.fun",
+      "destination": "https://www.indiehacker.fun",
       "statusCode": 302
     }
   ]

@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/*",
+      "destination": "www.indiehacker.fun",
+      "statusCode": 302
+    }
+  ]
+}

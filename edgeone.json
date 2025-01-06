@@ -1,8 +1,8 @@
 {
   "redirects": [
     {
-      "source": "www.indiehacker.fun",
-      "destination": "indiehacker.fun",
+      "source": "$host",
+      "destination": "$wwwhost",
       "statusCode": 301
     }
   ]

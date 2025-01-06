@@ -1,8 +1,8 @@
 {
   "redirects": [
     {
-      "source": "/*",
-      "destination": "www.indiehacker.fun/:splat",
+      "source": "indiehacker.fun",
+      "destination": "www.indiehacker.fun",
       "statusCode": 302
     }
   ]

@@ -3,7 +3,7 @@
     {
       "source": "www.indiehacker.fun",
       "destination": "indiehacker.fun",
-      "statusCode": 302
+      "statusCode": 301
     }
   ]
 }
